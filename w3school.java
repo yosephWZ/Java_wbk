@@ -1,4 +1,4 @@
-//@#$!@#$@!#$Progress### << ///Jan_2023..??>> @ @#$@%#!@%!Saving??@!#$@!#$@!#$!@#$@!#$
+//@#$!@#$@!#$Progress### << ///Mar_2024..??>> @ @#$@%#!@%!Saving??@!#$@!#$@!#$!@#$@!#$
 //!!!!! don't stay at one part for more than 1 weekds...!!!!
 //!!!!! proceed as you go through by commenting .. for furhter refirinement..
 //..//...//..//...//..//..//..//...//
@@ -10,18 +10,48 @@
 // System.exit(0); // Status code 0 indicates successful termination
 
 
+/*______Codecoach Challenges 
+
+#file:///D:\cNG\Java_wbk\beecrowd.java
+
+#file:///D:\cNG\Java_wbk\codeforces.java
+
+#file:///D:\cNG\Java_wbk\onlinejudge.java
+
+#file:///D:\cNG\Java_wbk\ProjectEuler.java
+
+
+*/
+
+
+
+
+
+
 /* _____________________   Java Getting Started  
 
 public class w3school{ // why the need to chaange tehise class to name of "##".java 
+
+
+	public static void doit(){
+		System.out.println("hell");
+	}		
     public static void main(String[] args) {
         // Print 'Hello, World!' to the console
         System.out.println("Helsdfsdflo, World!");
+        System.out.println("Helsdfsdflo, World!");
+		
+		int x=0;
+		System.out.println(x+2);
+
+		doit();
+		
 		System.exit(0); 
         System.out.println("Helsdfsdflo, World!");
-        System.out.println("Helsdfsdflo, World!");
+		
+	}
 
 
-    }
 }
 
 */
